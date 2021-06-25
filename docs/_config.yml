@@ -11,9 +11,9 @@ header:
 footer:
   show_powered_by: false
   contact:
-    - name: Email (Labwork-associated)
+    - name: Email
       value: croots a utexas.edu
-    - name: Email (Everything else)
+    - name: Email
       value: cameron a croots.me
   follow:
     - name: Twitter
