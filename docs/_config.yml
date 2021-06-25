@@ -12,9 +12,9 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: croots a utexas.edu
+      value: " croots a utexas.edu"
     - name: Email
-      value: cameron a croots.me
+      value: " cameron a croots.me"
   follow:
     - name: Twitter
       link: http://twitter.com/_croots
