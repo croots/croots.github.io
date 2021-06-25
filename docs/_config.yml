@@ -1,1 +1,27 @@
 remote_theme: eliottvincent/bay
+
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Blog  # <-- blog.md
+    - name: Resume  # <-- whatever.md
+
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email (Labwork-associated)
+      value: croots a utexas.edu
+    - name: Email (Everything else)
+      value: cameron a croots.me
+  follow:
+    - name: Twitter
+      link: http://twitter.com/_croots
+      username: "@_croots"
+    - name: LinkedIn
+      link: http://linkedin.com/in/croots
+    - name: GitHub
+      link: http://github.com/croots
+    - name: RSS
+      link: /feed.xml
